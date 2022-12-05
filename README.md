@@ -1,6 +1,6 @@
 ## Hey all ✌🏽
 
-My name's Andrico and I'm a Frontend Developer at HealthHero. I'm currently obsessed with accessibility, web components and design systems.
+My name's Andrico and I'm a Frontend Developer at Anima. I'm currently obsessed with accessibility, web components and design systems.
 
 I'm trying my hand combining all three with [a2k](https://a2000.netlify.app/).
 
